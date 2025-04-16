@@ -122,17 +122,12 @@ ELSE:
    pip install -r requirements.txt
    ```
 
-4. **Download Pre-trained Models**:
-   ```bash
-   python download_models.py
-   ```
-
-5. **Launch the Application**:
+4. **Launch the Application**:
    ```bash
    python app.py
    ```
 
-6. **Access the Web Interface**:
+5. **Access the Web Interface**:
    Open your browser and go to: http://localhost:5000
 
 ---
