@@ -105,7 +105,7 @@ ELSE:
 ### Steps
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/yourusername/retinal-cvd-assessment.git
+   https://github.com/Aswin-programmer/Dual-Parameter-Retinal-Biomarker-Analysis-for-Cardio-Vascular-Disease-Screening.git
    cd retinal-cvd-assessment
    ```
 
