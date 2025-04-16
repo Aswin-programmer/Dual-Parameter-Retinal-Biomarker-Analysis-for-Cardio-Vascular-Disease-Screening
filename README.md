@@ -208,10 +208,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Contact & Support
-For questions, issues, or collaboration inquiries:
-- **GitHub Issues**: [Create a new issue](https://github.com/yourusername/retinal-cvd-assessment/issues)
-
----
-
 *This tool is for research and screening purposes only and should not replace professional medical advice or diagnosis.*
